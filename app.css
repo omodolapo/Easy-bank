@@ -1,0 +1,311 @@
+
+body{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.logo{
+    margin-left: 110px;
+    margin-top:-19px;
+    width: 15%;
+    z-index: -4;
+   
+}
+
+.header{
+    height: 50px;
+    margin-top: -8px;
+    margin-left: -5px;
+    margin-right: -8px;
+    background-color: white;
+    border-bottom: 2px solid gray;
+}
+
+.links{
+    margin-right: 100px;
+    
+    
+}
+
+.links li{
+    display: inline;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    list-style: none;
+    color: hsl(220, 2%, 62%);
+
+}
+
+.links li a{
+    text-decoration: none;
+    color: hsl(220, 2%, 62%);
+}
+
+.links li a:hover{
+    color:  rgb(8, 151, 8);
+}
+
+.link-box{
+    margin-left: 510px;
+    margin-top: -55px;
+
+}
+
+._btn{
+    border-radius: 5px;
+    border: 1px solid rgb(8, 151, 8);
+    color: white;
+    background-color:  rgb(23, 148, 106);
+    margin-left: 500px;
+    margin-top: -35px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.now{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+#head{
+    font-size: 38px;
+    margin-top: -50px;
+}
+
+#text{
+    color: hsl(220, 2%, 62%);
+    font-size: 18px;
+    margin-top: -15px;
+}
+
+.btn{
+    border-radius: 5px;
+    border: 1px solid rgb(8, 151, 8);
+    color: white;
+    background-color:  rgb(8, 151, 8);
+    margin-top: 50px;
+    size: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.mockup{
+    
+    margin-left: 1000px;
+    float: right;
+    position: relative;
+    z-index: -4;
+    left: 750px;
+    top: -500px;
+}
+
+.mockups{
+    position: absolute;
+    float: right;
+    top: -660px;
+    left: 700px;
+    z-index: -4;
+    width: 110%;
+}
+
+.why-container{
+    z-index: -10;
+    background: rgb(250, 236, 236);
+   position: relative;
+    color: white;
+    margin-top: 1000px;
+   height: 300px;
+    
+}
+
+.notes{
+    
+    margin-left: 100px;
+}
+
+#why-title{
+    color: black;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#why-desc{
+    color: gray;
+}
+
+.sect{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 100%;
+    
+}
+
+.cont-img{
+    width: 40%;
+    margin-top: -10px;
+    
+}
+
+h2{
+    color: black;
+    size: 100px;
+}
+
+p{
+    color: gray;
+}
+
+#online{
+    width: 21%;
+   
+}
+
+#simple{
+    width: 21%;
+}
+
+#fast{
+    width: 21%;
+}
+
+#open{
+    width: 21%;
+}
+
+.latn{
+    background-color: rgb(241, 245, 245);
+    margin-top: -800px;
+}
+.la{
+    margin-left:100px; 
+    width: 500px;
+    position: relative;
+    
+   
+}
+
+.rec{
+    width: 250px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    
+}
+
+.box{
+    display: inline;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.box h3 a{
+    text-decoration: none;
+    color: black;
+    
+}
+.box h3 a:hover{
+    color: rgba(9, 129, 109, 0.788);
+}
+
+.box h3{
+    margin-left: 15px;
+}
+
+.box p{
+    margin-left: 15px;
+}
+.latx{
+    margin-top: -400px;
+}
+
+.din{
+    display: flex;
+    margin-top: 100px;
+}
+
+
+
+.bon{
+    margin-left: 30px;
+    border-radius: 20px;
+    border: 1px solid white;
+    background-color: white;
+}
+
+.bon h3{
+    margin-left: 15px;
+}
+
+.bon h3 a{
+    text-decoration: none;
+    color: black;
+    
+}
+.bon h3 a:hover{
+    color: rgba(9, 129, 109, 0.788);
+}
+.bon p{
+    margin-left: 15px;
+}
+
+.foot{
+   
+    background-color: rgb(4, 41, 43);
+    height:150px;
+    margin-top: 100px;
+
+}
+
+
+
+.fo{
+    margin-top: -103px;
+    margin-left: 350px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.fu{
+    margin-top: -92px;
+    margin-left: 500px;
+    text-decoration: none;
+    color: white;
+}
+
+.uil ul li{
+    text-decoration: none;
+    list-style: none;
+    font-size: 15px; 
+    margin-bottom: 10px;                                                     -[[p ]]
+}
+
+.bttn{
+    border-radius: 10px;
+    border: 1px solid rgb(8, 151, 8);
+    color: white;
+    background-color:  rgb(8, 151, 8);
+    margin-top: -90px;
+    margin-left: 1050px;
+    size: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.para{
+    margin-left: 1000px;
+    margin-top: -40px;
+    font-size: 14px;
+    
+}
